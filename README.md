@@ -1,6 +1,10 @@
+# CSC - AI Course Work 
+### University of South Alabama, School of Computing
+Apply AI techniques in to a game.
+
 ### Original Game Source Code is in https://github.com/phoboslab/wipeout-rewrite
 
-# wipEout Rewrite
+## wipEout Rewrite
 
 This is a re-implementation of the 1995 PSX game wipEout.
 
