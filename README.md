@@ -1,3 +1,5 @@
+### Original Game Source Code is in https://github.com/phoboslab/wipeout-rewrite
+
 # wipEout Rewrite
 
 This is a re-implementation of the 1995 PSX game wipEout.
